@@ -18,7 +18,7 @@ import java.util.Collections;
  * Provides an implementation of the WordLadderGame interface. The lexicon
  * is stored as a TreeSet of Strings.
  *
- * @author Your Name (you@auburn.edu)
+ * @author Brian Betz (betzbri@auburn.edu)
  * @author Dean Hendrix (dh@auburn.edu)
  * @version 2016-04-07
  */
